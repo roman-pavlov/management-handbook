@@ -1,9 +1,13 @@
 
 <img src="img/vladislav-klapin-SymZoeE8quA-unsplash.jpg" height=300 alt="Hello" />
 
-## Why this readme
+## Why This Readme
 Hello and welcome to my README! If you are here, you are probably curious.
-By writing this document I want you to help to understand how to work with me in the best possible way. I use this as an opportunity to share a bit more about my values, role, expectations, ways of working etc. I care about work I do and people I work with. I hope this document will help to establish a lasting and productive collaboration.
+By writing this document I want you to help to understand how to work with me in the best possible way. I use this as an opportunity to share a bit more about my values, role, expectations, ways of working etc. I care about the work I do and the people I work with. I hope this document will help to establish a lasting and productive collaboration.
+
+## Briefly About Myself
+I am Ukrainian, living and working in the UK since 2015. I love building cool products that help people to live better lives.
+I have a family: a wife, a daughter and a dog. I enjoy Yoga, travelling, martial arts, music, motorcycling, skiing and many other things in life.
 
 ## My Values
 Philosophically, I lean towards the liberal views with a high-level
@@ -30,7 +34,7 @@ And having a fun place to work is important. We spend way to much time at work a
 - The Art of Action by Stephen Bungay
 - Good Strategy Bad Strategy by Richard P. Rumelt
 
-## My role
+## My Role
 As a people leader, my role is:
 - to set clear performance expectations and reduce uncertainty
 - to trust you do the job in an efficient way and not to do your job for you
@@ -54,7 +58,7 @@ As a business partner, my role is:
 - to build a reliable and trustworthy relationship
 - to deliver a good outcome
 
-## Expectations (my and yours)
+## My and Your Expectations
 **Best effort**. I trust and expect you to give your best effort and version on the job. I do the same. We all have different days. Some just don't work out. That's OK. Please expect that we can work together to have a reasonable workload and deadlines considering the time to take care of yourself. If you cannot give the best of yourself for any reason, I would be happy to discuss this and find ways forward.
 
 **Setting expectations**. I do my best to communicate the importance, context and desired outcome and allow you to find out what works best for you and the team.
@@ -67,7 +71,7 @@ As a business partner, my role is:
 
 **No "Surprises"**. I prefer you bring up issues sooner. It would give time for mitigation. If this is your area of responsibility, I expect a plan of how you are handling it and what support (if any) is required. In any case, I want to avoid hearing bad news about our product or the team from external people, e.g. customers.
 
-## The ways of work
+## Ways Of Work
 If you come with a request, I appreciate your input, suggestions and questions. This is a good starting point for a discussion. I will ask questions to navigate our discussion. It's good when you bring 2-3 options for a solution, if possible. It would reduce my effort and become an exercise of validating the solutions rather than designing them. I might have less expertise in a topic than you. In this case, I avoid sharing my personal opinions.
 
 For more complex decisions, I prefer to take time to think upfront before discussing where possible. This would increase the quality of the decision. If you write a short statement/ memo where you share the context and your thoughts, It would greatly help to prepare think about it properly. I like the asynchronous discussions around a shared document before jumping to a meeting. It helps t greatly reduce the discussion points.
@@ -82,16 +86,16 @@ I value in-person collaboration in the office. I believe the decision-making pro
 At the same time, I value focus time and an opportunity to work remotely. Certain tasks require a destruction-free environment. A modern office is more prone to distractions. So hybrid setting would be the best mix addressing both needs.
  
 ### The power of feedback
-I believe feedback is like a heartbeat. It's an essential part of our daily work. It should be given swiftly, clearly, and kindly. Any genuine feedback is good. It proves that someone cares and trusts. I value any feedback coming my way and would be happy to share mine.
+I believe feedback is like a heartbeat. It's an essential part of our daily work. It should be given swiftly, clearly, and kindly. Any genuine feedback is good. It proves that someone cares and trusts. I value feedback coming my way and would be happy to share mine. If you feel uncomfortable sharing feedback with me, please feel free to speak with my manager.
 
 I like to give feedback during 1:1s or when it's the right time. When I do it, I share specific examples of your behaviour I'd like to see more of. And any specific examples of your behaviour I'd like to see less of.
 
 At times, I tend to forget about positive feedback and working to improve it. Sometimes, I ask you to write down what you are doing to help me out. It helps to recall the important and amazing work done and be an advocate of your work in the wider organisation.
 
 ### Meetings
-I believe in having useful, short and productive meetings. I value my and your time and aim to start and finish them on time. The best meeting is in person. If not, video/audio would be my next preference. If I am in a meeting it means a) I need to know something important b) I am expected to provide input/advice/ support c) I am expected to participate in a decision making d) you want me to know something important.
+I believe in having useful, short and productive meetings. I value my and your time and aim to start and finish them on time. The best meeting is in person. If not, video/audio would be my next preference. If I am in a meeting it means a) I need to know something important b) I am expected to provide input/advice/ support c) I am expected to participate in a decision-making d) you want me to know something important.
 
-If I see an invite with an unclear agenda/topic and I haven't got any context before I get upset and tempted to decline. The last thing I want to spend time in a meeting that is generally irrelevant or I could get a written update after. Or any surprise. I aim to be clear about the purpose of my meetings.
+If I see an invite with an unclear agenda/topic and I haven't got any context before I get upset and tempted to decline. The last thing I want is to spend time in a meeting that is generally irrelevant or I could get a written update after. Or any surprise. I aim to be clear about the purpose of my meetings.
 
 As far as ICs in my teams, I am an advocate of a focus time and would like to make sure formal meetings take minimum time (normally 10% or less) in a healthy team.
 
@@ -99,17 +103,28 @@ I expect you to be present in a meeting. If you are bored or feel excluded, it's
 
 For video calls, If you can, please use your camera. It enriches the quality of engagement and collaboration.
 
-### 1:1s
+#### 1:1s
 It's our time to work together on your career. They are typically 30 min every week.
 We can work together and tune the meeting to reflect your needs. I tend to offer to drive the agenda. I want to make sure you get the most out of this time.
 I will use this meeting to give feedback, unblock you, work on your goals, and help with anything you need help with.
 
 I propose to have a shared document where we both can put agendas and take notes/ action items. So we can remember what we worked on. 
 
-## Personality quirks
+## Personality Quirks
+I am leaning towards introverted people and at times need space and time to think.
 
+At times, I may be a bit too direct as I have a footprint of the Eastern European culture. I never let myself be rude, or impolite, though. I work to improve my language and cut corners where needed/if needed. if it happens, please take my directness as a sign that I care and let me know any feedback.
 
-## Some Publications
+Some people said that at times they were not clear about what I was thinking on the topic. I had a poker face and it was difficult to see my reaction: happy/unhappy etc. I work on this and make sure you are clear on my stance. Please don't hesitate to ask for feedback if you feel unclear or seek approval.
+
+At times, I was told that I was a bit slow with decision-making. I am working on finding the right balance between quality and speed and recognising when speed should prevail. Normally, it's a sign that I feel non-confident about this for a reason/seeking help or just very busy. In both cases please speak to me and help to unblock it.
+
+In any way, the best way to address things is to talk. I am always open to this.
+
+## Some links
 [My personal blog posts](https://blog.romanpavlov.me/)
 
+[LinkedIn - Let's connect!](https://www.linkedin.com/in/romanpav/)
+
 ## Thanks for reading
+Thank you for reading this post. Please feel free to reach out with any feedback or just raise a PR with any suggestions! 
