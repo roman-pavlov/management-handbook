@@ -67,21 +67,47 @@ As a business partner, my role is:
 
 **No "Surprises"**. I prefer you bring up issues sooner. It would give time for mitigation. If this is your area of responsibility, I expect a plan of how you are handling it and what support (if any) is required. In any case, I want to avoid hearing bad news about our product or the team from external people, e.g. customers.
 
-Inclusivity/ mutual support. Us first.
+## The ways of work
+If you come with a request, I appreciate your input, suggestions and questions. This is a good starting point for a discussion. I will ask questions to navigate our discussion. It's good when you bring 2-3 options for a solution, if possible. It would reduce my effort and become an exercise of validating the solutions rather than designing them. I might have less expertise in a topic than you. In this case, I avoid sharing my personal opinions.
 
-## The ways I work
-If you come with a problem or a request, I appreciate your thoughtful input, suggestions and questions. This is a good starting point for a discussion. I will ask questions to navigate our discussion. I might have less expertise in a topic than you. In this case, I avoid sharing my opinions and redirect you to an expert.
+For more complex decisions, I prefer to take time to think upfront before discussing where possible. This would increase the quality of the decision. If you write a short statement/ memo where you share the context and your thoughts, It would greatly help to prepare think about it properly. I like the asynchronous discussions around a shared document before jumping to a meeting. It helps t greatly reduce the discussion points.
 
+I believe in the power of writing. When we write we consolidate and settle our thinking. I like writing memos when it comes to important decisions. Writing also greatly reduces the room for misinterpretation and miscommunication.
 
+At times, I may ask managers to have an update in writing following a standard template. When I work with multiple work streams and teams a more structured approach works best for quality updates. It gives me the right information I need and enables me to be helpful in anything you need my attention.
+
+If I ask multiple questions about your team, product, platform, or delivery typically it means I have a knowledge gap I need to address or I miss some important information. I try to avoid asking the questions that I can find answers for myself (e.g. dashboards or documentation). Please help me out and be patient if some questions sound silly or a bit scrutinizing.
+
+I value in-person collaboration in the office. I believe the decision-making process is the fastest there. It's good to be together and build our culture. It's a good time to catch up with business stakeholders in person. I found pair programming an efficient collaborative technique. It may greatly improve team velocity.
+At the same time, I value focus time and an opportunity to work remotely. Certain tasks require a destruction-free environment. A modern office is more prone to distractions. So hybrid setting would be the best mix addressing both needs.
+ 
 ### The power of feedback
 I believe feedback is like a heartbeat. It's an essential part of our daily work. It should be given swiftly, clearly, and kindly. Any genuine feedback is good. It proves that someone cares and trusts. I value any feedback coming my way and would be happy to share mine.
 
 I like to give feedback during 1:1s or when it's the right time. When I do it, I share specific examples of your behaviour I'd like to see more of. And any specific examples of your behaviour I'd like to see less of.
 
 At times, I tend to forget about positive feedback and working to improve it. Sometimes, I ask you to write down what you are doing to help me out. It helps to recall the important and amazing work done and be an advocate of your work in the wider organisation.
+
+### Meetings
+I believe in having useful, short and productive meetings. I value my and your time and aim to start and finish them on time. The best meeting is in person. If not, video/audio would be my next preference. If I am in a meeting it means a) I need to know something important b) I am expected to provide input/advice/ support c) I am expected to participate in a decision making d) you want me to know something important.
+
+If I see an invite with an unclear agenda/topic and I haven't got any context before I get upset and tempted to decline. The last thing I want to spend time in a meeting that is generally irrelevant or I could get a written update after. Or any surprise. I aim to be clear about the purpose of my meetings.
+
+As far as ICs in my teams, I am an advocate of a focus time and would like to make sure formal meetings take minimum time (normally 10% or less) in a healthy team.
+
+I expect you to be present in a meeting. If you are bored or feel excluded, it's a good thing to reflect on why and potentially discuss in 1:1. It could be a useless meeting or a problem of engagement, inclusion or anything else. 
+
+For video calls, If you can, please use your camera. It enriches the quality of engagement and collaboration.
+
 ### 1:1s
+It's our time to work together on your career. They are typically 30 min every week.
+We can work together and tune the meeting to reflect your needs. I tend to offer to drive the agenda. I want to make sure you get the most out of this time.
+I will use this meeting to give feedback, unblock you, work on your goals, and help with anything you need help with.
+
+I propose to have a shared document where we both can put agendas and take notes/ action items. So we can remember what we worked on. 
 
 ## Personality quirks
+
 
 ## Some Publications
 [My personal blog posts](https://blog.romanpavlov.me/)
