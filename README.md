@@ -3,26 +3,28 @@
 
 ## Why This Readme
 Hello and welcome to my README! If you are here, you are probably curious.
-I want to help you to understand how we can work in the best possible way and establish a good collaboration.
+I want to help you to understand how we can work in the best possible way.
 
 ## Briefly About Myself
-I am Ukrainian, living and working in the UK since 2015. I love building cool products that help people to live better lives.
-I have a wife, a daughter and a dog. I enjoy Yoga, travelling, martial arts, music, motorcycling, skiing, surfing, cycling and many other things in life.
+I am Ukrainian, living and working in the UK since 2015. I love building cool products that help people to live better lives. I have a wife, a daughter and a dog. I enjoy yoga, travelling, martial arts, music, motorcycling, sports and many other things in life.
 
 ## My Values
 Personally, I support liberal views and a high level of freedom in decision-making. My ideal engineering organisation would be autonomous, and collaborative with a bottom-up culture being able to move fast and innovate. It's a journey to get there. My mission is to help. I avoid being authoritarian unless things have been significantly broken.
 
 I value transparency and collaboration over ego. True teamwork unlocks unexpected results. Creating an environment where different opinions help to find the truth is important. I value a blameless culture where people learn from their mistakes.
 
-I invest in operational efficiency and DevOps. It enables shipping 
-iteratively and quickly. I like working smart and not hard.
+I value operational efficiency and DevOps. It enables shipping 
+iteratively and quickly. I prefer working smart and not hard.
 
 Having a fun place to work is awesome. We spend much time at work being serious. I tend to forget about it and aspire to have more fun. I support sustainable work/life balance.
 
 I believe in the culture of writing. When people write they improve their thinking. Also, writing reduces the room for misinterpretation and miscommunication.
 
-I value in-person collaboration. It improves the decision-making process and speed of information. For example, I find pair programming an efficient collaborative technique. It may greatly improve team velocity if done well.
-At the same time, I value focus time and an opportunity to work solo. Certain tasks require a destruction-free environment. So hybrid setting is a good mix.
+I value feedback that is given swiftly, clearly, and kindly coming both ways. If you feel uncomfortable sharing feedback with me directly, please feel free to speak to my manager.
+
+I believe in having useful, short and productive meetings and value our time. 
+
+I value in-person collaboration. It improves the decision-making process and speed of information. For example, I find pair programming an efficient collaborative technique. It may greatly improve team velocity if done well. At the same time, I value focus time and an opportunity to work solo. Certain tasks require focus time. Hybrid work setting is a good mix.
 
 ### Some books that influenced me
 - Marcus Aurelius. Meditations
@@ -58,55 +60,25 @@ As a business partner, my role is:
 
 **Stick to promises**. If I see risks in delivering a promise, I will let you know ASAP. I expect the same from you. Things may not go as planned. We are humans and sometimes tend to overcommit (including myself). The key is how well we handle and communicate our challenges.
 
-**Mutual help and support**. If you are stuck, just reach out. If I am not available for any reason, I will give and ETA. Help me to understand the urgency of the issue by describing its context/impact. There can be genuinely urgent things. For those, ideally we should have standard operation procedures. I expect **high collaboration and mutual support** in the team and between the teams. This is our power. There is no my or your work. There is our work! And we are in the same boat: we all either reach the shore or sink.
+**Mutual help and support**. If you are stuck, just reach out. If I am not available for any reason, I will share my availability. Help me to understand the urgency of the issue by describing its context/impact. There can be genuinely urgent things. For those, ideally we should have standard operation procedures. I expect high collaboration and mutual support in the team and between the teams. This is our power. There is no my or your work. There is our work! And we are in the same boat: we all either reach the shore or sink.
 
 **No "Surprises"**. I prefer you bring up issues sooner. It would give time for mitigation. If this is your area of responsibility, I expect a plan of how you are handling it and what support (if any) is required. I want to avoid hearing bad news about our product or the team from external people, e.g. customers. From my side, I make sure you have no surprise from me.
 
-## My standard operation procedures
-### Collaboration
-If you have a request, I'd appreciate your input, suggestions and questions. This is a good starting point for our discussion. I ask questions to navigate the topic. It's good when you have 2-3 solutions of your problem. It would reduce my effort and become an exercise of validating the solutions rather than designing them. But it's OK, if you don't. Note, I might have less expertise in a topic than you. In this case, my recommendations/opinions should have less weight.
-
-For complex topics, I prefer to have an artifact to work with. If you write a short statement/ memo with context and thoughts, It would greatly help to process it. It help everyone working on it, not only me. I like a mix of **asynchronous discussions** around a shared document and live discussions.
-
-At times, I ask my managers to have an **update in writing** following a standard template. When I work with multiple work streams and teams, a more structured approach works well. It gives the right details and I may be more helpful with feedback.
-
-If I ask questions about your team, product, platform, or delivery typically it means I have a knowledge gap I need to address or I miss important information. Please help me out with a source and be patient if some questions sound silly or a bit scrutinizing.
- 
-### Feedback
-It is like a heartbeat and should be given swiftly, clearly, and kindly. I value feedback coming my way and would be happy to share mine. If you feel uncomfortable sharing feedback with me, please feel free to speak to my manager.
-
-I like to give feedback during 1:1s or when it's the right time. When I do it, I share specific examples of your behaviour I'd like to see more of. And any specific examples of your behaviour I'd like to see less of.
-
-### Meetings and Focus work
-I believe in having **useful, short and productive meetings**. I value my and your time and aim to start and finish them on time. 
-
-If I am invited to a meeting it means you need my input or share something with me. If I see an invite with an unclear agenda and I haven't got any context I get upset and tempted to decline (not a fan of surprises). The last thing I want is to spend time in a meeting that is generally irrelevant or is a matter of a simple update. I aim to be clear about the purpose of my meetings as well.
-
-As far as ICs in my teams, I am an advocate of a focus time and would like to make sure formal meetings take minimum time (normally 10% or less) in a healthy team.
-
-I expect you to be present in a meeting. If you are bored or feel excluded, it's a good thing to reflect on why and potentially discuss in 1:1.
-
-#### 1:1s
-It's our time to work together on your career. They are typically 30 min every week.
-I offer to **drive the agenda** to make sure you get the most out of it. I will use this meeting to give feedback, unblock you, work on your goals, and help with anything you need help with.
-
-I propose to have **a shared document** where we both can put agendas and take notes and **action items**. So we can remember what we worked on. 
-
 ## Personality Quirks
-I am leaning towards introverted people and at times need space and time to think.
+I am leaning towards introverted people and sometimes need space and time to think.
 
 At times, I may be a bit direct as I have a footprint of the Eastern European culture. If it happens, please take my directness as a sign that I care and let me know any feedback.
 
-People said that at times they were not clear about what I was on my mind on the topic. I had a poker face and hard to see my stance. I work on this and make sure you are clear. Please don't hesitate to ask for feedback if you feel unclear or seek approval.
+Some people said they were not clear about my stance on a topic. If this is the case, please don't hesitate to ask for feedback explicitly.
 
-People said I was a bit slow with decision-making. I am working on finding the right **balance between quality and speed** and recognising when speed should prevail. Normally, it's a sign that I feel non-confident about this for a reason/seeking help or just very busy. In both cases please speak to me and help to unblock a quicker input.
-
-Anyway, the best way to address issue is to talk to me directly.
+If my look is a bit serious in a situation where it shouldn't, the best way to change would be to make a random English joke.
 
 ## Some links
-[My personal blog posts](https://blog.romanpavlov.me/)
+[My standard operation procedures](docs/SOPs.md)
 
 [LinkedIn - Let's connect!](https://www.linkedin.com/in/romanpav/)
+
+[My personal blog posts](https://blog.romanpavlov.me/)
 
 ## Thanks for reading
 Thank you for reading this document. Please feel free to reach out with any feedback or just raise a PR with any suggestions! Also, I would love to read your README at some point. Don't be a stranger!
