@@ -1,25 +1,27 @@
-## My standard operation procedures
-This document focuses on how I normally operate.
+## My Standard Operating Procedures
+This document outlines how I typically operate to foster effective collaboration, streamline decision-making, and create a productive work environment.
 
-### Communication and collaboration
-If you have a request, I'd appreciate your input, suggestions and questions. This is a good starting point for our discussion. I normally ask questions to navigate the topic. It's good when you have >1 solutions of the problem in mind. It would reduce our effort and become an exercise of validating the solutions rather than designing them. But it's OK, if you don't. Note, I might have less expertise in the topic. In this case, please take my opinions with this in mind.
+### Communication and Collaboration
+If you have a request, I appreciate your input, suggestions, and questions. This provides a solid starting point for discussion. I usually ask clarifying questions to better navigate the topic. It helps if you have more than one solution in mind, as this reduces effort and shifts the focus to validating solutions rather than designing them. However, if you don’t, that’s okay. Please note that I may have less expertise in the topic, so consider my opinions with this in mind.
 
-For non-trivial topics, I prefer to have an artifact (e.g. doc) to work with. If you write a short statement/ memo with a context and thoughts, It would greatly help those working on it. I like a mix of asynchronous discussion over an artifact and live one (e.g. white boarding).
+For non-trivial topics, I prefer to have an artifact (e.g., a document) to work with. Writing a short statement or memo with context and thoughts greatly helps those involved. I value a mix of asynchronous discussion over an artifact and live discussions (e.g., whiteboarding).
 
-At times, I ask the managers in my team to have updates in writing following a standard template. When I work with multiple work streams and teams, a more structured approach works pretty well for both myself and the managers.
+At times, I ask the managers in my team to provide written updates following a standard template. When working with multiple work streams and teams, a structured approach benefits both me and the managers.
 
 ### Feedback
-I give feedback during 1:1s or when it's the right time. When I do it, I share specific examples of your behaviour I'd like to see more of. And any specific examples of your behaviour I'd like to see less of.
+I provide feedback during one-on-ones or at appropriate moments. When giving feedback, I share specific examples of behaviors I’d like to see more of and those I’d like to see less of.
 
 ### Meetings
-I aim to start and finish meetings on time as I respect our time. 
+I aim to start and finish meetings on time out of respect for everyone’s time.
 
-If I am invited to a meeting it means you need my input or share something with me. If I see an invite with an unclear agenda and I haven't got any context I get upset and tempted to decline (not a fan of "surprises"). The last thing I want is to spend time in a meeting that is generally irrelevant or is a matter of a simple update. I aim to be clear about the purpose of my meetings as well.
 
-I expect you to be present in a meeting. If you are bored or feel excluded, it's a good thing to reflect on why and potentially discuss in 1:1.
+I appreciate a clear agenda making it productive.
 
-#### 1:1s
-It's our time to work together on your career. They are typically 30 min every week.
-I offer to drive the agenda to make sure you get the most out of it. I will use this meeting to give feedback, unblock you, work on your goals, and help with anything you need help with.
+I expect active collaboration in meetings. If you feel bored or excluded, it’s important to reflect on why and potentially discuss it in a one-on-one.
 
-I propose to have a shared document where we both can put agendas and take notes and action items. So we can remember what we worked on.
+#### One-on-Ones
+This is our dedicated time to work on your career. These meetings are typically 30 minutes long and occur weekly.
+
+I encourage you to drive the agenda to ensure you get the most out of our time. I use these meetings to provide feedback, help unblock you, support your goals, and assist with anything you need.
+
+I suggest maintaining a shared document where we can both add agenda items, notes, and action points. This helps us keep track of what we’ve discussed and worked on.
