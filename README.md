@@ -3,82 +3,82 @@
 
 ## Why This Readme
 Hello and welcome to my README! If you are here, you are probably curious.
-I want to help you to understand how we can work in the best possible way.
+I’d like to help you understand how we can collaborate effectively.
 
-## Briefly About Myself
-I am Ukrainian, living and working in the UK since 2015. I love building cool products that help people to live better lives. I have a wife, a daughter and a dog. I enjoy yoga, travelling, martial arts, music, motorcycling, sports and many other things in life.
+## About Me
+I am a Ukrainian who has been living and working in the UK since 2015. I love building cool products that help people live better lives. I have a wife, a daughter, and a dog. I enjoy yoga, travelling, martial arts, music, motorcycling, sports, and many other things in life.
 
 ## My Values
-Personally, I support liberal views and a high level of freedom in decision-making. My ideal engineering organisation would be autonomous, and collaborative with a bottom-up culture being able to move fast and innovate. It's a journey to get there. My mission is to help. I avoid being authoritarian unless things have been significantly broken.
+I support liberal views and believe in a high degree of freedom in decision-making. My ideal engineering organisation is autonomous and collaborative, with a bottom-up culture that enables fast movement and innovation. Getting there is a journey, and my mission is to help. I avoid being authoritarian unless things are significantly broken.
 
-I value transparency and collaboration over ego. True teamwork unlocks unexpected results. Creating an environment where different opinions help to find the truth is important. I value a blameless culture where people learn from their mistakes.
+I value transparency and collaboration over ego. True teamwork unlocks unexpected results. Creating an environment where diverse opinions contribute to finding the truth is important. I advocate for a blameless culture where people learn from their mistakes.
 
-I value operational efficiency and DevOps. It enables shipping 
-iteratively and quickly. I prefer working smart and not hard.
+I value operational efficiency and DevOps, as they enable iterative and rapid shipping. I believe in working smart, not just hard.
 
-Having a fun place to work is awesome. We spend much time at work being serious. I tend to forget about it and aspire to have more fun. I support sustainable work/life balance.
+Creating a fun workplace is important. We spend a significant amount of time at work being serious, and I aspire to bring more enjoyment into our environment. I support a sustainable work-life balance.
 
-I believe in the culture of writing. When people write they improve their thinking. Also, writing reduces the room for misinterpretation and miscommunication.
+I believe in the culture of writing. Writing helps people refine their thinking and reduces misinterpretation and miscommunication.
 
-I value feedback that is given swiftly, clearly, and kindly coming both ways. If you feel uncomfortable sharing feedback with me directly, please feel free to speak to my manager.
+I value feedback that is given both ways—swiftly, clearly, and kindly. If you feel uncomfortable sharing feedback with me directly, please feel free to speak to my manager.
 
-I believe in having useful, short and productive meetings and value our time. 
+I believe in having useful, concise, and productive meetings that respect our time.
 
-I value in-person collaboration. It improves the decision-making process and speed of information. For example, I find pair programming an efficient collaborative technique. It may greatly improve team velocity if done well. At the same time, I value focus time and an opportunity to work solo. Certain tasks require focus time. Hybrid work setting is a good mix.
+I value in-person collaboration as it improves decision-making and accelerates the flow of information. For example, I find pair programming to be an effective collaborative technique that can significantly enhance team velocity when done well. At the same time, I also value focused work and the opportunity to work independently. A hybrid work setting offers a good balance.
 
-### Some books that influenced me
-- Marcus Aurelius. Meditations
-- Radical Candor by Kim Scott
-- The Art of Action by Stephen Bungay
-- Good Strategy Bad Strategy by Richard P. Rumelt
+### Books That Have Influenced Me
+- *Meditations* by Marcus Aurelius
+- *Radical Candor* by Kim Scott
+- *The Art of Action* by Stephen Bungay
+- *Good Strategy Bad Strategy* by Richard P. Rumelt
 
 ## My Role
-As a people leader, my role is:
-- to set clear performance expectations and reduce uncertainty
-- to trust you do the job in an efficient way and not to do your job for you
-- to make sure you are unblocked and have the resources you need
-- to share the context and known constraints so you can make the best decisions
-- to create the environment for your personal growth.
-- to champion your accomplishments across the organisation
+As a people leader, my role is to:
+- Set clear performance expectations and reduce uncertainty.
+- Trust you to do your job efficiently and not do it for you.
+- Ensure you are unblocked and have the necessary resources.
+- Share context and constraints so you can make informed decisions.
+- Create an environment that fosters personal growth.
+- Champion your accomplishments across the organisation.
 
-As an engineering leader, my role is:
-- to set expectations of what good looks reflecting our organisational goals
-- to influence our engineering culture in a way we can work smarter
-- to make sure the team and I deliver on promises
-- to make sure the team has a vision and a strategy for how to get there
+As an engineering leader, my role is to:
+- Set expectations that align with our company goals.
+- Shape our engineering culture to improve how we work.
+- Ensure we deliver on our commitments.
+- Establish a vision and strategy to guide our progress.
 
-As a business partner, my role is:
-- to be transparent on what we can/cannot deliver
-- to be collaborative and approachable
-- to build a reliable and trusting relationship
-- to deliver
+As a business partner, my role is to:
+- Be transparent about what we can and cannot deliver.
+- Be collaborative and approachable.
+- Build reliable and trusting relationships.
+- Deliver results.
 
 ## Expectations
-**Best effort**. I trust and expect you to give your best effort on the job. I will do the same. We all have different days. Some just don't work out. That's OK. We can work together on a reasonable workload and deadlines considering the time to take care of yourself. If you cannot give the best of yourself for any reason, I would discuss this and find ways forward.
+**Best effort.** I trust and expect you to give your best effort at work, and I will do the same. We all have off days, and that’s okay. We can work together to manage workloads and deadlines while ensuring you take care of yourself. If you are unable to give your best for any reason, let’s discuss it and find a way forward.
 
-**Bias for action**. I encourage healthy proactiveness. According to the book "Decisive: How to Make Better Decisions" by C. and D. Heath, the most of our decisions are reversible. In our day to day, it's very true. I support the motto: "Act, learn, improve" The approach maintains an environment of experimentation. With a decision comes accountability. I am accountable for my decisions and expect the same from you.
+**Bias for action.** I encourage healthy proactiveness. According to *Decisive: How to Make Better Decisions* by Chip and Dan Heath, most decisions are reversible. In our day-to-day work, this is often true. I support the motto: "Act, learn, improve." This approach fosters a culture of experimentation. With decisions comes accountability. I take responsibility for mine and expect the same from you.
 
-**Stick to promises**. If I see risks in delivering a promise, I will let you know ASAP. I expect the same from you. Things may not go as planned. We are humans and sometimes tend to overcommit (including myself). The key is how well we handle and communicate our challenges.
+**Keeping commitments.** If I see risks in delivering on a promise, I will inform you as soon as possible, and I expect the same from you. Things don’t always go as planned—we are human and sometimes overcommit (myself included). The key is how well we handle and communicate challenges.
 
-**Mutual help and support**. If you are stuck, just reach out. If I am not available for any reason, I will share my availability. Help me to understand the urgency of the issue by describing its context/impact. There can be genuinely urgent things. For those, ideally we should have standard operation procedures. I expect high collaboration and mutual support in the team and between the teams. This is our power. There is no my or your work. There is our work! And we are in the same boat: we all either reach the shore or sink.
+**Mutual help and support.** If you are stuck, reach out. If I am unavailable, I will share my availability. Help me understand the urgency of the issue by describing its context and impact. Some issues are genuinely urgent, and ideally, we should have standard operating procedures for those. I expect high collaboration and mutual support within and between teams. This is our strength. There is no *my work* or *your work*—it is *our work*. We are in the same boat: we either reach the shore together or sink together.
 
-**No "Surprises"**. I prefer you bring up issues sooner. It would give time for mitigation. If this is your area of responsibility, I expect a plan of how you are handling it and what support (if any) is required. I want to avoid hearing bad news about our product or the team from external people, e.g. customers. From my side, I make sure you have no surprise from me.
+**No surprises.** I prefer to hear about issues sooner rather than later, as this allows time for mitigation. If an issue falls within your area of responsibility, I expect a plan for how you are handling it and what support (if any) is needed. I want to avoid learning about problems with our product or team from external sources, such as customers. In return, I will ensure you are not caught off guard by surprises from me.
 
 ## Personality Quirks
-I am leaning towards introverted people and sometimes need space and time to think.
+I tend to lean towards introversion and sometimes need space and time to think.
 
-At times, I may be a bit direct as I have a footprint of the Eastern European culture. If it happens, please take my directness as a sign that I care and let me know any feedback.
+At times, I may come across as direct due to my Eastern European background. If this happens, please take it as a sign that I care, and feel free to share any feedback with me.
 
-Some people said they were not clear about my stance on a topic. If this is the case, please don't hesitate to ask for feedback explicitly.
+Some people have mentioned that they were unsure about my stance on a topic. If this ever happens, don’t hesitate to ask me directly for clarification.
 
-If my look is a bit serious in a situation where it shouldn't, the best way to change would be to make a random English joke.
+If I seem too serious, a random English joke usually helps!
 
-## Some links
-[My standard operation procedures](docs/SOPs.md)
+## Some Links
+[My Standard Operating Procedures](docs/SOPs.md)
 
-[LinkedIn - Let's connect!](https://www.linkedin.com/in/romanpav/)
+[LinkedIn - Let's Connect!](https://www.linkedin.com/in/romanpav/)
 
-[My personal blog posts](https://blog.romanpavlov.me/)
+[My Personal Blog Posts](https://blog.romanpavlov.me/)
 
-## Thanks for reading
-Thank you for reading this document. Please feel free to reach out with any feedback or just raise a PR with any suggestions! Also, I would love to read your README at some point. Don't be a stranger!
+## Thanks for Reading
+Thank you for taking the time to read this document. Please feel free to reach out with any feedback or raise a PR with suggestions! I’d also love to read your README at some point—don’t be a stranger!
+
