@@ -57,7 +57,7 @@ As a business partner, my role is to:
 
 **Bias for action.** I encourage healthy proactiveness. According to *Decisive: How to Make Better Decisions* by Chip and Dan Heath, most decisions are reversible. In our day-to-day work, this is often true. I support the motto: "Act, learn, improve." This approach fosters a culture of experimentation. With decisions comes accountability. I take responsibility for mine and expect the same from you.
 
-**Keeping commitments.** If I see risks in delivering on a promise, I will inform you as soon as possible, and I expect the same from you. Things don’t always go as planned—we are human and sometimes overcommit (myself included). The key is how well we handle and communicate challenges.
+**Keeping commitments.** If I see risks in delivering on a promise, I will inform you as soon as possible, and I expect the same from you. Things don’t always go as planned—we are humans and sometimes overcommit (myself included). The key is how well we handle and communicate challenges.
 
 **Mutual help and support.** If you are stuck, reach out. If I am unavailable, I will share my availability. Help me understand the urgency of the issue by describing its context and impact. Some issues are genuinely urgent, and ideally, we should have standard operating procedures for those. I expect high collaboration and mutual support within and between teams. This is our strength. There is no *my work* or *your work*—it is *our work*. We are in the same boat: we either reach the shore together or sink together.
 
